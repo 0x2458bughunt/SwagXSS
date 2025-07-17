@@ -110,7 +110,7 @@ info:
         </form>
       </div>
     </div>
-    <div class="footer">Made by 0x2458</div>
+    <div class="footer">POC by 0x2458</div>
 paths:
   /:
     post:
