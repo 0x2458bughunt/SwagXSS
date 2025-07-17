@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/0x2458bughunt/SwagXSS/main/login.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/0x2458bughunt/SwagXSS/main/login.yaml",
+            "name": "XSS payload"
+        }
+    ]
+}
